@@ -1,5 +1,7 @@
 a rough 1:1 recreation of Minecraft's main font
 
+download: [.ttf](https://github.com/macimas/fonts/raw/main/mdt's%20Minecraft/mdt's%20Minecraft.ttf), [.otf](https://github.com/macimas/fonts/raw/main/mdt's%20Minecraft/mdt's%20Minecraft.otf)
+
 initially started this back in around December 2022 (possibly even earlier) as a recreation of other Minecraft fonts. they were either not pixel-perfect, outdated, or were quite lacking.
 
 initial attempt only contained Basic Latin and some symbols i needed. was pretty satisfied with it. kept it as is for an entire year, until i revisited the font in December 2023.
