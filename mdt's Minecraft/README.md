@@ -21,7 +21,7 @@ for now,
 # quick changelog
 
 ## 1.1 - December 23, 2023
-- should now cover entire Basic Multilingual Plan
+- should now cover entire Basic Multilingual Plane
 - fixed some symbols not being 1:1 [₃, ⅞, ⅟, and ↉]
 - adds ✗ (i missed it previously)
 
