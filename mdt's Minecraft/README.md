@@ -1,3 +1,10 @@
+> [!NOTE]
+> this font has been succeeded by [mac's Minecraft](https://github.com/macimas/macsMinecraft)
+> <br>
+> it's a more up-to-date version with **bold** and *italic* styles, and other goodies
+
+<hr>
+
 a rough 1:1 recreation of Minecraft's main font
 
 download: [.ttf](https://github.com/macimas/fonts/raw/main/mdt's%20Minecraft/mdt's%20Minecraft.ttf), [.otf](https://github.com/macimas/fonts/raw/main/mdt's%20Minecraft/mdt's%20Minecraft.otf)
