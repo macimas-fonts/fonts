@@ -1,8 +1,10 @@
 a collection of fonts i've made. pretty much all of them are pixel fonts made with [YellowAfterlife's pixel font converter](https://yal.cc/r/20/pixelfont/).
 
-this repository is a dump for relatively small fonts not worth making a repository for, which will most likely get archived here
+this repository is a dump for relatively small or experimental fonts not worth making a repository for, which will most likely get archived here
 
-with some exceptions, the fonts are recreations of already pre-existing fonts, albeit made to be pixel-perfect or slightly more neater than the original (not sure if that is legal.. oh well, i'll find out someday!!!)
+with some exceptions, the fonts are heavily based or pixel-perfect remakes of other fonts which are made to fit personal use
+
+not sure if putting them here in the open is legal.. oh well, i'll find out someday!!!
 
 feel free and open source to use them `:)`
 
@@ -10,7 +12,9 @@ feel free and open source to use them `:)`
 
 - [mac's Minecraft](https://github.com/macimas-fonts/macsMinecraft)
   <br>
-  *→ a rough 1:1 recreation of the Minecraft font, specifically Minecraft Seven in Java Edition*
+  *→ a rough 1:1 recreation of the Minecraft font*
+  <br>
+  well specifically it's based on Minecraft Seven from Java Edition
   <br>
   despite the description i gave, it actually hosts multiple fonts. i'm not gonna list each one down here in detail cuz im lazy. check out the repo yourself
 
@@ -43,6 +47,10 @@ feel free and open source to use them `:)`
     *→ slightly downscaled sfgFont*
     <br>
     rarely used and is kinda unreadable
+
+- 📂 [mac's Mindustry](./mac's%20Mindustry)
+  <br>
+  *→ small font that mimics the logo font used in ~b63*
 
 - 📦️ 📂 [adocubes fonts](./adocubes%20fonts)
   <br>
